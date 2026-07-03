@@ -1,0 +1,7 @@
+figure,model,image_path,true_label,predicted_label,confidence,is_correct
+figure_5_gradcam_correct_prediction_examples.pdf,Custom CNN,/kaggle/input/datasets/swoyam2609/fresh-and-stale-classification/dataset/Test/rottenoranges/vertical_flip_Screen Shot 2018-06-12 at 11.44.48 PM.png,rottenoranges,rottenoranges,1.0,True
+figure_5_gradcam_correct_prediction_examples.pdf,MobileNetV2,/kaggle/input/datasets/swoyam2609/fresh-and-stale-classification/dataset/Test/rottenoranges/vertical_flip_Screen Shot 2018-06-12 at 11.44.48 PM.png,rottenoranges,rottenoranges,0.9999994,True
+figure_5_gradcam_correct_prediction_examples.pdf,ResNet50,/kaggle/input/datasets/swoyam2609/fresh-and-stale-classification/dataset/Test/rottenoranges/vertical_flip_Screen Shot 2018-06-12 at 11.44.48 PM.png,rottenoranges,rottenoranges,1.0,True
+figure_6_gradcam_misclassification_examples.pdf,Custom CNN,/kaggle/input/datasets/swoyam2609/fresh-and-stale-classification/dataset/Test/rottentamto/t_r292.png,rottentamto,rottentomato,0.5359515,False
+figure_6_gradcam_misclassification_examples.pdf,MobileNetV2,/kaggle/input/datasets/swoyam2609/fresh-and-stale-classification/dataset/Test/rottentamto/t_r292.png,rottentamto,rottentomato,0.9986809,False
+figure_6_gradcam_misclassification_examples.pdf,ResNet50,/kaggle/input/datasets/swoyam2609/fresh-and-stale-classification/dataset/Test/rottentamto/t_r292.png,rottentamto,rottentomato,1.0,False

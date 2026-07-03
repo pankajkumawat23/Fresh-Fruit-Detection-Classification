@@ -1,0 +1,4 @@
+model,figure,status,notes
+Custom CNN,figure_7_shap_explanation_custom_cnn.pdf,saved,Generated with max_evals=300
+MobileNetV2,figure_7_shap_explanation_mobilenetv2.pdf,saved,Generated with max_evals=300
+ResNet50,figure_7_shap_explanation_resnet50.pdf,saved,Generated with max_evals=300

@@ -1,0 +1,4 @@
+model,total_parameters,trainable_parameters,last_conv_layer,input_size,training_strategy
+ResNet50,23632790,15851798,conv5_block3_out,224x224x3,"ImageNet backbone, classifier head training, then fine-tuning"
+MobileNetV2,2286166,1691542,out_relu,224x224x3,"ImageNet backbone, classifier head training, then fine-tuning"
+Custom CNN,2069686,2067766,custom_last_conv,224x224x3,Convolutional neural network trained from scratch

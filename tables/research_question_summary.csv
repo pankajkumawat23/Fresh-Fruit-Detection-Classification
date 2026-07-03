@@ -1,0 +1,8 @@
+research_question,answer_basis
+RQ1,Custom CNN row in evaluation_results.csv and its confusion matrix.
+RQ2,Compare Custom CNN against MobileNetV2 and ResNet50 in final_comparison_table.csv.
+RQ3,"Compare weighted F1-score, training_time_seconds, and total_parameters."
+RQ4,Inspect Grad-CAM correct-prediction examples in Figure 5.
+RQ5,Compare attention regions across model columns in Figures 5 and 6.
+RQ6,Inspect positive and negative evidence in Figure 7 SHAP explanations.
+RQ7,Use Figure 6 and gradcam_examples.csv to diagnose misclassified or low-confidence images.
